@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ExtractionLibrary.Detectors.ImageDetection">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAgACAAAAAAAAQAAAA=</HashCode>
+      <FileName>Detectors\ImageDetection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtractionLibrary.Detectors.ShapeDetection">
+    <Position X="4.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Detectors\ShapeDetection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtractionLibrary.Filters.GreyscaleFilter">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filters\GreyscaleFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtractionLibrary.Filters.ImageFilter">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filters\ImageFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtractionLibrary.Filters.PixelExtractionFilter">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filters\PixelExtractionFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtractionLibrary.Filters.SobelFilter">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Filters\SobelFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtractionLibrary.LabelExtraction">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAACBAAAAgAAAAAAIAAQAAAgADAAAAAAAAQAAwA=</HashCode>
+      <FileName>LabelExtraction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExtractionLibrary.Detectors.LabelDetection">
+    <Position X="1.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Detectors\LabelDetection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
